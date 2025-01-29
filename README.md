@@ -24,12 +24,12 @@ A reupload, but currently being fixed of my stolen Blooket Cheats.
   <summary><h3>How to use</h3></summary>
   
   There are 2 good methods to using these scripts:
-  1. Copying the main GUI and running it in the inspect element console
+  1. Copying the main GUI and running it in the inspect element console (Ctrl+Shift+I on chrome is a shortcut to get there).
   2. Copying the .min.js GUI and using it as a bookmarklet
   
 <details>
   <summary>What can I do if JavaScript is blocked?</summary>
-  We don't actually know what to do about this or how to fix it, sorry.
+  First, check the site permissions and see if you can allow JavaScript, if not, we don't actually know what to do about this or how to fix it, sorry.
 </details>
 </details>
 
@@ -42,7 +42,7 @@ Make sure you're running it properly (see [How to use](https://github.com/swaggi
 
 <details><summary><h3>Which script should I use to make a bookmarklet?</h3></summary>
 
-You should use the scripts ending in ".min.js", as using the others will have errors due to formatting.
+You should use the scripts ending in ".min.js", as using the others will have errors due to formatting. However, we don't reccomend using bookmarklets though and instead use it in the inspect element console (Ctrl+Shift+I is a shortcut to get there).
 </details>
 
 <details><summary><h3>Can you give me infinite tokens / bypass daily limit / permanently give me blooks / change pack luck?</h3></summary>
